@@ -119,3 +119,8 @@
 - Place: CA, USA
 - Bio: Tinkerer
 - GitHub: [jacobv126](https://github.com/jacobv126)
+
+#### Name: [Dinesh Joshi](https://github.com/dineshchandrajoshi)
+- Place: ON, Canada
+- Bio: Software Developer
+- GitHub: [dineshchandrajoshi](https://github.com/dineshchandrajoshi)
